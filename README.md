@@ -1,4 +1,8 @@
-# check-multiple-checkboxes
+# Check-multiple-checkboxes
+
+# How it works
+![screen-rec1](https://user-images.githubusercontent.com/61838067/93772724-75dfac00-fc1f-11ea-9ab0-663bd9740850.gif)
+
 
 # Licence
 MIT License
